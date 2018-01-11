@@ -1,7 +1,7 @@
 #ifndef PLANAR_SEGMENTATION_H
 #define PLANAR_SEGMENTATION_H
 
-#include "PlanarSegmentation.h"
+#include "CPlanarSegmentation.h"
 
 #include <iostream>
 #include <pcl/ModelCoefficients.h>

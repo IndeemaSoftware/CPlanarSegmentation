@@ -1,6 +1,9 @@
 import PackageDescription
 
 let package = Package(
-	name: "CPlanarSegmentation"
+	name: "CPlanarSegmentation",
+	products: [
+		.library(name: "CPlanarSegmentation", targets: ["CPlanarSegmentation"]),
+	]
 )
 
