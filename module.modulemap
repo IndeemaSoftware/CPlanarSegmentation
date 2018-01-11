@@ -1,5 +1,5 @@
 module Segmentation {
   header "CSources/CPlanarSegmentation.h"
-  link "CPlanarSegmentation"
+  link "libCPlanarSegmentation"
   export *
 }
