@@ -1,5 +1,5 @@
-module CGetFactorial {
-  header "CSources/PlanarSegmentation.h"
+module CPlanarSegmentation {
+  header "CSources/CPlanarSegmentation.h"
   link "PlanarSegmentation"
   export *
 }
