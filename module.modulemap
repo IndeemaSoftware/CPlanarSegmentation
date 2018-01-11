@@ -1,4 +1,4 @@
-module CPlanarSegmentation {
+module Segmentation {
   header "CSources/CPlanarSegmentation.h"
   link "CPlanarSegmentation"
   export *
